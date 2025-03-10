@@ -26,10 +26,14 @@ Abaixo, você encontra as instruções de como rodar a aplicação.
    ```
 
 2. **Instale as dependências:**
-   npm install 
+   ```
+   npm install
+   ``` 
 
 3. **Inicie o servidor:**
-   node server.js  
+   ```
+   node server.js 
+   ``` 
    O servidor deverá iniciar em http://localhost:3000
 
 ## Executando o Cliente
@@ -41,8 +45,12 @@ Abaixo, você encontra as instruções de como rodar a aplicação.
    ```
 
 2. **Instale as dependências:**
+   ```
    npm install
+   ```
 
 3. **Inicie o aplicativo:**
+   ```
    npm run dev 
+   ```
    A aplicação deverá iniciar em http://localhost:5173
